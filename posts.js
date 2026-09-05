@@ -13,7 +13,7 @@ const SITE = {
     wanted to write down before they disappeared, and the occasional visit
     from characters who exist only in my head.</p>
     <p>There's no theme here on purpose. Some stories are true, some are
-    invented, and I usually won't tell you which is which, because I don't like to =))) </p>
+    invented, and I usually won't tell you which is which, because I don't want to 😗 </p>
     <p>Say hello — <a href="mailto:paigetran0605@gmail.com">paigetran0605@gmail.com</a></p>
   `
 };
