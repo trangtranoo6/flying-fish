@@ -5,7 +5,7 @@
 const SITE = {
   name: "Flying Fish on the Cloud",
   headline: "I write random stuff as a third person in this world",
-  tagline: "No particular order, no particular rules.",
+  tagline: "",
 
   about: `
     <p>Hi from the sky. This is where I keep things that

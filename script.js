@@ -59,7 +59,6 @@ function renderHome() {
     <section class="hero">
       <span class="hero-eyebrow">${SITE.name} —</span>
       <h1>${SITE.headline}</h1>
-      <p>${SITE.tagline}</p>
       <div class="category-pills">
         ${(CATEGORIES || []).map(c => `<a class="pill" href="#/category/${c.id}" data-route>${c.label}</a>`).join('')}
       </div>
@@ -149,7 +148,7 @@ function setActiveNav(route) {
 function router() {
   const hash = window.location.hash.replace(/^#\/?/, '');
   const parts = hash.split('/').filter(Boolean);
-  document.title = SITE.name + ' — ' + SITE.tagline;
+  document.title = SITE.tagline ? (SITE.name + ' — ' + SITE.tagline) : SITE.name;
 
   if (parts.length === 0) { renderHome(); setActiveNav(''); return; }
   if (parts[0] === 'blog') { renderBlog(); setActiveNav('blog'); return; }
