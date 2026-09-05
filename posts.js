@@ -29,8 +29,9 @@ const CATEGORIES = [
 // Each post: id (used in the URL), date, category (must match a CATEGORIES id),
 // title, and body. tags and excerpt are optional — leave them out if you don't
 // want them.
-// Body supports basic HTML: <p>, <h2>, <blockquote>, and
-// <em class="aside">...</em> for little handwritten-style asides.
+// Body supports basic HTML: <p>, <h2>, <blockquote>, <figure>/<img>/<figcaption>,
+// and <span class="spark"> or <span class="spark spark--alt"> to make a word or
+// phrase pop with a playful, handwritten-style color.
 const POSTS = [
  /* {
     id: "the-day-the-elevator-agreed-with-me",
@@ -52,16 +53,20 @@ const POSTS = [
     category: "random",
     title: "Hong Kong through her kaleidoscope",
     body: `
-      <p>These days, she has been blasting music while cycling around her neighborhood: Pak Shek Kok, Ma On Shan, and occasionally, when feeling adventurous, all the way to Sha Tin Wai. A whole new horizon has opened up. It's nothing like sitting on the MTR, a bus, or a tram and watching the city go by, and not quite the same as cycling to her highschool back in Nam Dinh either.
-      How to describe, it feels like freedom. Just her, her bike, and the road stretching along the coast. The music turns into a ribbon of sound with Doppler effect =)). Her brain switches into full NPC silly mode, just breathing in the scents of the plants and grass, mixed with the salty, fishy smell of the sea.
-      Now she finally understands why they call this place 香港（Fragrant Harbour）.</p>
-      <p>Her friends always say Hong Kong is boring, but somehow she feels the opposite. Perhaps it suits someone as bland as her. Bland people find each other, she guesses =)).</p>
-      There's something about Hong Kong that is modern yet traditional, artificial yet natural. There's the hustle of Central, but also the slow, unhurried weekends spent hiking and staring at the sky. Skyscrapers stand right next to mountains, and bays sit right alongside highways.
-      It's contradictory, yet somehow it all makes sense, much like the way her fish brain works.</p>
+      <figure>
+        <img src="images/hongkong-cloud-doodles.jpg" alt="A bridge over the water at sunset, with two clouds doodled into cartoon animal faces">
+        <figcaption>the sky was clearly in a mood that day</figcaption>
+      </figure>
+      <p>These days, she has been <span class="spark">blasting music</span> while cycling around her neighborhood: Pak Shek Kok, Ma On Shan, and occasionally, when feeling adventurous, all the way to Sha Tin Wai. A <span class="spark spark--alt">whole new horizon</span> has opened up. It's nothing like sitting on the MTR, a bus, or a tram and watching the city go by, and not quite the same as cycling to her highschool back in Nam Dinh either.
+      How to describe, it feels like <span class="spark">freedom</span>. Just her, her bike, and the road stretching along the coast. The music turns into a ribbon of sound with <span class="spark spark--alt">Doppler effect</span> =)). Her brain switches into full <span class="spark">NPC silly mode</span>, just breathing in the scents of the plants and grass, mixed with the salty, fishy smell of the sea.
+      Now she finally understands why they call this place 香港（<span class="spark spark--alt">Fragrant Harbour</span>）.</p>
+      <p>Her friends always say Hong Kong is boring, but somehow she feels the opposite. Perhaps it suits someone as <span class="spark">bland</span> as her. Bland people find each other, she guesses =)).</p>
+      There's something about Hong Kong that is modern yet traditional, artificial yet natural. There's the <span class="spark spark--alt">hustle of Central</span>, but also the slow, unhurried weekends spent hiking and staring at the sky. Skyscrapers stand right next to mountains, and bays sit right alongside highways.
+      It's contradictory, yet somehow it all makes sense, much like the way her <span class="spark">fish brain</span> works.</p>
       <p>There are plenty of things she doesn't like about this place, too. But her brain is all muddled now. That's just how it is. What can she say? Maybe she's already grown attached to Hong Kong.
       A foreign land that, apart from the place where she was born, has somehow become special to her.
       She'll wait for the day she starts hating this place.
-      Probably won't take too long, though, because her moods are as unpredictable as Hong Kong weather (Just kidding =))). But Hong Kong weather is unpredictable for real :3 </p>
+      Probably won't take too long, though, because her moods are as <span class="spark spark--alt">unpredictable as Hong Kong weather</span> (Just kidding =))). But Hong Kong weather is unpredictable for real :3 </p>
     `
   }
   /*,

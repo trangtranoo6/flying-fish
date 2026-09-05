@@ -353,6 +353,37 @@ a { color: inherit; }
   color: var(--sage-text);
 }
 
+/* photos dropped into a post — framed a little like a taped-in journal photo */
+.post-body figure {
+  margin: 1.8rem 0 2rem;
+}
+.post-body figure img {
+  width: 100%;
+  display: block;
+  border-radius: 14px;
+  box-shadow: 0 14px 30px rgba(15, 30, 60, 0.28);
+  transform: rotate(-0.6deg);
+}
+.post-body figcaption {
+  font-family: var(--hand);
+  font-size: 1.15rem;
+  color: var(--brick-text);
+  text-align: center;
+  margin-top: 0.7rem;
+  transform: rotate(-0.4deg);
+}
+
+/* a word or phrase with a little extra character */
+.spark {
+  font-family: var(--hand);
+  font-size: 1.12em;
+  font-weight: 600;
+  color: var(--brick-text);
+}
+.spark--alt {
+  color: var(--sage-text);
+}
+
 .back-link {
   display: inline-block;
   margin-bottom: 2rem;
