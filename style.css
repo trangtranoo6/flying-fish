@@ -1,22 +1,22 @@
 :root {
   --paper: #FDFBF6;
   --paper-2: #F6F0E2;
-  --ink: #1C2A44;
-  --ink-soft: #2C3E60;
+  --ink: #34305A;
+  --ink-soft: #423B66;
   --sage: #5F7350;
-  --sage-text: #2B3D22;
+  --sage-text: #1F3A3A;
   --mustard: #C99A3A;
   --brick: #A65D57;
-  --brick-text: #74302A;
-  --line: rgba(28, 42, 68, 0.18);
+  --brick-text: #5E3055;
+  --line: rgba(52, 48, 90, 0.18);
 
   --sky-top: #6FB3E8;
   --sky-mid: #9BD1F0;
   --sky-bottom: #E4F6FF;
   --cloud: #FFFFFF;
 
-  --display: 'Fraunces', serif;
-  --body: 'Literata', serif;
+  --display: 'Quicksand', sans-serif;
+  --body: 'Nunito', sans-serif;
   --hand: 'Caveat', cursive;
   --ui: 'Inter', sans-serif;
 }

@@ -52,8 +52,11 @@ const POSTS = [
     date: "2024-09-30",
     category: "random",
     title: "Hong Kong through her kaleidoscope",
-    excerpt: "On bike rides along the coast, the Doppler effect, and slowly falling for a city she didn't expect to.",
+    excerpt: "On bike rides along the coast, and slowly falling for a city she didn't expect to.",
     body: `
+      <figure>
+        <img src="images/hongkong-cloud-doodles.jpg" alt="A bridge over the water at sunset, with two clouds doodled into cartoon animal faces">
+      </figure>
       <p>These days, she has been blasting music while cycling around her neighborhood: Pak Shek Kok, Ma On Shan, and occasionally, when feeling adventurous, all the way to Sha Tin Wai. A whole new horizon has opened up. It's nothing like sitting on the MTR, a bus, or a tram and watching the city go by, and not quite the same as cycling to her highschool back in Nam Dinh either.
       How to describe, it feels like freedom. Just her, her bike, and the road stretching along the coast. The music turns into a ribbon of sound with Doppler effect =)). Her brain switches into full NPC silly mode, just breathing in the scents of the plants and grass, mixed with the salty, fishy smell of the sea.
       Now she finally understands why they call this place 香港（Fragrant Harbour）.</p>
@@ -64,9 +67,6 @@ const POSTS = [
       A foreign land that, apart from the place where she was born, has somehow become special to her.
       She'll wait for the day she starts hating this place.
       Probably won't take too long, though, because her moods are as unpredictable as Hong Kong weather (Just kidding =))). But Hong Kong weather is unpredictable for real :3 </p>
-      <figure>
-        <img src="images/hongkong-cloud-doodles.jpg" alt="A bridge over the water at sunset, with two clouds doodled into cartoon animal faces">
-      </figure>
     `
   }
   /*,
