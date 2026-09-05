@@ -8,7 +8,7 @@ const SITE = {
   tagline: "",
 
   about: `
-    <p>Hi from the sky. This is where I keep things that
+    <p>Hi from the cloud. This is where I keep things that
     don't fit anywhere else — random stories, half-formed thoughts I
     wanted to write down before they disappeared, and the occasional visit
     from characters who exist only in my head.</p>
