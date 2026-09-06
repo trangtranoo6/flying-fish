@@ -68,23 +68,17 @@ const POSTS = [
       She'll wait for the day she starts hating this place.
       Probably won't take too long, though, because her moods are as unpredictable as Hong Kong weather (Just kidding =))). But Hong Kong weather is unpredictable for real :3 </p>
     `
+  },
+  {
+    id: "the-band-Beyond",
+    date: "2025-09-30",
+    category: "review",
+    title: "The band: Beyond",
+    body: `
+      <p> <hidden></p>
+    `
   }
   /*,
-  {
-    id: "a-list-of-things-i-noticed-today",
-    date: "2026-08-11",
-    category: "random",
-    title: "A list of things I noticed today",
-    body: `
-      <p>The bakery downstairs changes its smell by the hour — bread in the
-      morning, something like caramel by four.</p>
-      <p>A stranger held the door and we did that thing where you both say
-      thank you at the same time and then laugh about it.</p>
-      <h2>Small thought</h2>
-      <p>Maybe a good day is just several unremarkable things arranged
-      nicely.</p>
-    `
-  },
   {
     id: "sample-study-entry",
     date: "2026-01-01",
