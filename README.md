@@ -1,12 +1,11 @@
-# Loose Pages — your notebook site
+# Flying Fish on the Cloud
 
-A tiny, framework-free personal blog. Four files, no build step, fully yours.
 
 ## Files
 - `index.html` — page shell, loads the other files
 - `style.css` — all the design (colors, fonts, layout)
-- `posts.js` — **the only file you'll usually edit.** Site name, tagline, about text, and every post live here as plain JavaScript objects.
-- `script.js` — the router that turns posts.js into pages. You shouldn't need to touch this.
+- `posts.js` — Site name, tagline, about text, and every post live here as plain JavaScript objects.
+- `script.js` — the router that turns posts.js into pages.
 
 ## Add a new post
 Open `posts.js` and copy one of the objects inside `POSTS`, then edit it:
