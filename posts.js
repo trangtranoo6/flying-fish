@@ -7,7 +7,7 @@ const SITE = {
     <p>Hi from the cloud. This is where I keep things that
     don't fit anywhere else — random stories, half-formed thoughts I
     wanted to write down before they disappeared, and the occasional visit
-    from characters who exist only in my head. I have just created this page in 2026, but I have been writing since long ago (in Vietnamese language), so I will keep updating my page with old notes when I am not too lazy to type and translate.</p>
+    from characters who exist only in my head. I have just created this page in 2026, but I have been writing since long ago (in Vietnamese language), so I will keep updating my page with old notes when I am not too lazy to type and translate (I am bad at translating though).</p>
     <p>There's no theme here on purpose. Some stories are true, some are
     invented, and I usually won't tell you which is which 😗 </p>
     <p>Say hello — <a href="mailto:paigetran0605@gmail.com">paigetran0605@gmail.com</a></p>
