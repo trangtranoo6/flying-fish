@@ -1,7 +1,3 @@
-// ─────────────────────────────────────────────────────────────
-// EDIT ME: this is the only file you need to touch to add posts.
-// ─────────────────────────────────────────────────────────────
-
 const SITE = {
   name: "Flying Fish on the Cloud",
   headline: "I write random stuff as a third person in this world",
@@ -17,36 +13,13 @@ const SITE = {
     <p>Say hello — <a href="mailto:paigetran0605@gmail.com">paigetran0605@gmail.com</a></p>
   `
 };
-
-// The site's sub-branches. Add more anytime — just give it an id and a label,
-// then use that id as a post's "category" below.
 const CATEGORIES = [
   { id: "random", label: "Fish Wander" },
   { id: "study", label: "Fish Brain" },
   { id: "review", label: "Random Review" }
 ];
 
-// Each post: id (used in the URL), date, category (must match a CATEGORIES id),
-// title, and body. tags and excerpt are optional — leave them out if you don't
-// want them.
-// Body supports basic HTML: <p>, <h2>, <blockquote>, <figure>/<img>/<figcaption>,
-// and <span class="spark"> or <span class="spark spark--alt"> to make a word or
-// phrase pop with a playful, handwritten-style color.
 const POSTS = [
- /* {
-    id: "the-day-the-elevator-agreed-with-me",
-    date: "2026-09-02",
-    category: "random",
-    title: "The day the elevator agreed with me",
-    body: `
-      <p>I was the only one in the elevator, or so I thought, muttering about
-      how Mondays should legally be optional, when a voice — flat, a little
-      bored — said "agreed." I have decided not to investigate this further.</p>
-      <p>Some days you get an answer you didn't ask for and you just take it.</p>
-      <em class="aside">— filed under: things I'm choosing not to explain</em>
-    `
-  },
-  */
   {
     id: "hong-kong-through-her-kaleidoscope",
     date: "2025-09-30",
@@ -78,28 +51,4 @@ const POSTS = [
       <p> <hidden></p>
     `
   }
-  /*,
-  {
-    id: "sample-study-entry",
-    date: "2026-01-01",
-    category: "study",
-    title: "(placeholder) delete me — this shows how Study posts look",
-    body: `
-      <p>This is a placeholder so you can see how a Study entry appears on the
-      site. Delete this whole object from posts.js once you've written your
-      first real one — just copy this structure and swap in your own
-      title, date, and body.</p>
-    `
-  },
-  {
-    id: "sample-review-entry",
-    date: "2026-01-01",
-    category: "review",
-    title: "(placeholder) delete me — this shows how Review posts look",
-    body: `
-      <p>Same idea — this is just here so the Review branch isn't empty.
-      Swap this out for an actual review whenever you're ready.</p>
-    `
-  }
-  */
 ];
