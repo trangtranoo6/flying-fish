@@ -49,7 +49,7 @@ const POSTS = [
   */
   {
     id: "hong-kong-through-her-kaleidoscope",
-    date: "2024-09-30",
+    date: "2025-09-30",
     category: "random",
     title: "Hong Kong through her kaleidoscope",
     excerpt: "On bike rides along the coast, and slowly falling for a city she didn't expect to.",
@@ -71,7 +71,7 @@ const POSTS = [
   },
   {
     id: "the-band-Beyond",
-    date: "2025-09-30",
+    date: "2024-09-30",
     category: "review",
     title: "The band: Beyond",
     body: `
