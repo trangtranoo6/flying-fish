@@ -1,6 +1,5 @@
-// ─────────────────────────────────────────────────────────────
-// Tiny hash-based router + renderer. No build step, no framework.
-// ─────────────────────────────────────────────────────────────
+// Tiny hash-based router + renderer
+
 
 const app = document.getElementById('app');
 
