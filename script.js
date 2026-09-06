@@ -1,6 +1,5 @@
 // Tiny hash-based router + renderer
 
-
 const app = document.getElementById('app');
 
 const CRITTER_LINES = {
