@@ -42,13 +42,13 @@ const POSTS = [
       Probably won't take too long, though, because her moods are as unpredictable as Hong Kong weather (Just kidding =))). But Hong Kong weather is unpredictable for real :3 </p>
     `
   },
-  {
+  /*{
     id: "the-band-Beyond",
     date: "2024-09-30",
     category: "review",
     title: "The band: Beyond",
     body: `
-      <p> <hidden></p>
+      <p>For an unknown reason, she is always obsessed with the term "自由", or "freedom", or "tự do". Regardless of the language, the term never "Lost in Translation". Everyone knows what "freedom" means, but do they really know? She doubted herself too. But everytime listening to Beyond's song, she feels the freedom flowing . It is crazy that you don't need to understand a word but can still feel it wholly. to  The first time she listened to this band was when she was on a plane leaving Hong Kong. When it randomly played on her headphone.  </p>
     `
-  }
+  } */
 ];
