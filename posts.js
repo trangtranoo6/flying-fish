@@ -44,7 +44,7 @@ const POSTS = [
   },
   {
     id: "the-band-Beyond",
-    date: "2024-09-30",
+    date: "2026-09-19",
     category: "review",
     title: "The band: Beyond",
     body: `
