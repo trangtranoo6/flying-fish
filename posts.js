@@ -48,12 +48,14 @@ const POSTS = [
     category: "review",
     title: "The band: Beyond",
     body: `
+      /*
       <figure>
       <img src="images/a-moment.jpg"
       </figure>
       <p>
       </p>
       <p>P/S: I found this picture online 😗</p>
+      */
       <p>For some unknown reason, I am always obsessed with the word "自由" - “freedom”, or tự do. Regardless of the language, the term never gets “Lost in Translation” =)). It is crazy that you don't need to understand a word but can still feel it wholly in every of Beyond’s songs, especially in the song 海闊天空 (The Boundless Sea and Sky). But it was not my favorite from the band.</p>
 <p>I first heard Beyond’s song through the movie 天若有情 (A Moment of Romance). The song 灰色軌跡 (Grey Track) chorus turned on right at the moment the two main characters flee on a motorbike, speeding down a deserted highway, with nothing but the open road ahead of them. The song itself is ironic, almost painfully heavy, but in that scene, all I felt was the freedom they were trying to seek for. I like the sound of drums at that moment. It was as if time had stopped at that moment too. The whole world became smaller and smaller, until there were only two people on a motorbike, disappearing into an endless highway. </p>
 <p>To be honest, that scene is the only thing my fish brain still remembers vividly from the movie. It’s funny - I like the song more than the movie, though the movie was the reason I felt in love with the song. This is probably how I fall in love with songs. They all attached to a scene—something I have watched, somewhere I have been, or sometimes just a scene I have created in my own head. Then, whenever I hear it again, the scene returns with it: the light, the movement, the feeling, the version of myself who was there.</p>
