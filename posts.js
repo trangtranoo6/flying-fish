@@ -60,5 +60,26 @@ const POSTS = [
 <p>I have no answer for the questions what type of music I am into, because it is “một nồi cám heo” =))) But yeah, please, I will turn on Beyond’s songs on my road trip, though I don’t know when =)). Until then I'll just temporarily listen to my road trip playlist on train =)))</p> 
 
     `
-  } 
+  },
+  {
+    id: "Book: Crime and Punishment - Fyodor Dostoevsky",
+    date: "2025-04-07",
+    category: "review",
+    title: "Book: Crime and Punishment - Fyodor Dostoevsky",
+    body: `
+     <figure>
+      <img src="images/a-moment.jpg"
+      </figure>
+      <p>
+      </p>
+    <p>I have a habit of guessing authors' MBTI types while reading (FYI I am not obsessed with MBTI :3), and Dostoevsky gives me the feeling of an INFP slowly morphing into an INFJ from White Nights to Crime and Punishment.</p>
+<p>Crime and Punishment took place in St. Petersburg - a city of brutally raw and unfiltered associations. (I may write about St. Petersburg in another post - how much I want to visit it (or not If I am too lazy to type). Back to the point, I am a bit disappointed with the novel's ending: its conventional 'redemption' feels tame. I was hoping that no one would catch Raskolnikov, for his torment to become his life sentence - a phantom prison of guilt that is crueler than any law. It sounds contradictory yet perfectly aligns with the logic of the character’s own article: thought is the deadliest poison. It doesn't kill people immediately; it seeps into every cell, draining life so gradually that we barely notice.</p>
+<p>P/s: not related but I love Dostoevsky's thought on morality, he took the moral question seriously and unconventionally.</p>
+<p>After translating this, I randomly realized how expressive Vietnamese is itself. Even with one pronoun “him”, in Vietnamese you can express a lot of emotion and perspectives: using “anh ta” (neutral), “hắn” (emotion/perspective involved - unworthy of respect) and many other ways of expression. That is amazing! And my writing style in Vietnamese is more emotion-leaned and expressive compared to my English writing.</p>
+<p>[Vietnamese]</p>
+<p>Mình có thói quen đoán MBTI của các tác giả khi đọc, và Dostoevsky cho mình cảm giác ông là một INFP chuyển dần thành INFJ từ White Night sang Crime and Punishment.</p>
+<p>Crime and Punishment khiến mình chìm đắm vào thành phố Saint Petersburg với những liên tưởng thực tới trần trụi. Nhưng mình không thật sự thích cái kết của tác phẩm đó, có một chút "có hậu" theo góc nhìn thông thường, nhưng lại khiến mình cảm thấy hụt hẫng vì sự "nhàm chán" đó. Mình thì mong không ai bắt hắn ta và nỗi dằn vặt thống khổ đi theo hắn, cầm tù hắn tới cuối đời, tưởng chừng như kẻ sát nhân đó đã thoát khỏi vòng lao lí nhưng hắn nhận ra chính những dằn vặt trong đầu là bản án chung thân khắc nghiệt nhất. Nghe có vẻ hơi mâu thuẫn nhỉ, nhưng thực ra theo logic lại khá ăn nhập với những gì hắn viết trong bài báo. Và mình thấy thật đúng khi nói rằng chính suy nghĩ mới là thứ thuốc độc nguy hiểm nhất, nó không hại ta một cách chóng vánh mà lan tới từng tế bào trong cơ thể, rút hết nguồn sống một cách chậm rãi đến nỗi ta không thể nhận thức nổi.</p>
+  `
+  }
+
 ];
