@@ -68,7 +68,7 @@ const POSTS = [
     title: "Book: Crime and Punishment - Fyodor Dostoevsky",
     body: `
      <figure>
-      <img src="images/a-moment.jpg"
+      <img src="images/crime-and-punishment.JPG"
       </figure>
       <p>
       </p>
