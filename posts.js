@@ -83,14 +83,15 @@ const POSTS = [
   }
   {
     id: "Chestnut Season",
-    date: "2026-09-26",
+    date: "2026-09-29",
     category: "random",
     title: "Chestnut Season",
     body: `
+     /*
      <figure>
       <img src="images/"
       </figure>
       <p>It was in a sunny afternoon. She was 
       </p>
-
+      */
 ];
