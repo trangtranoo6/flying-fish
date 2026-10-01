@@ -1,6 +1,6 @@
 const SITE = {
   name: "Flying Fish on the Cloud",
-  headline: "I write random stuff as a third person in this world",
+  headline: "I write random stuff as a third person in this world. Omg these days I am really excited but no time to write. I cant wait until this weekend to write. It's amazing that I am too easy to get excited about random shits ><!",
   tagline: "",
 
   about: `
