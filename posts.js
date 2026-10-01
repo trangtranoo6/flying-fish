@@ -94,4 +94,6 @@ const POSTS = [
       <p>It was in a sunny afternoon. She was 
       </p>
       */
+      `
+  }
 ];
