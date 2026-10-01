@@ -74,7 +74,7 @@ const POSTS = [
 <p>Mình có thói quen đoán MBTI của các tác giả khi đọc, và Dostoevsky cho mình cảm giác ông là một INFP chuyển dần thành INFJ từ White Night sang Crime and Punishment.</p>
 <p>Crime and Punishment khiến mình chìm đắm vào thành phố Saint Petersburg với những liên tưởng thực tới trần trụi. Nhưng mình không thật sự thích cái kết của tác phẩm đó, có một chút "có hậu" theo góc nhìn thông thường, nhưng lại khiến mình cảm thấy hụt hẫng vì sự "nhàm chán" đó. Mình thì mong không ai bắt hắn ta và nỗi dằn vặt thống khổ đi theo hắn, cầm tù hắn tới cuối đời, tưởng chừng như kẻ sát nhân đó đã thoát khỏi vòng lao lí nhưng hắn nhận ra chính những dằn vặt trong đầu là bản án chung thân khắc nghiệt nhất. Nghe có vẻ hơi mâu thuẫn nhỉ, nhưng thực ra theo logic lại khá ăn nhập với những gì hắn viết trong bài báo. Và mình thấy thật đúng khi nói rằng chính suy nghĩ mới là thứ thuốc độc nguy hiểm nhất, nó không hại ta một cách chóng vánh mà lan tới từng tế bào trong cơ thể, rút hết nguồn sống một cách chậm rãi đến nỗi ta không thể nhận thức nổi.</p>
   `
-  }
+  },
   {
     id: "Chestnut Season",
     date: "2026-09-29",
