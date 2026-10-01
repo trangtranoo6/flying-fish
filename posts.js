@@ -85,9 +85,9 @@ const POSTS = [
      <figure>
       <img src="images/"
       </figure>
+      */
       <p>It was in a sunny afternoon. She was 
       </p>
-      */
       `
   }
 ];
