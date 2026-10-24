@@ -1,6 +1,6 @@
 const SITE = {
   name: "Flying Fish on the Cloud",
-  headline: "I write random stuff as a third person in this world.",
+  headline: "I write random stuff as a third person in this world",
   tagline: "",
 
   about: `
